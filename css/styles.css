@@ -1,3 +1,6 @@
+body {
+  font-family: "roboto";
+}
 .logo-first-part {
   color: var(--iris, #4d5ae5);
   font-family: Raleway;
@@ -7,7 +10,4 @@
   line-height: 21px;
   letter-spacing: 0.54px;
   text-transform: uppercase;
-}
-body {
-  font-family: "roboto";
 }
