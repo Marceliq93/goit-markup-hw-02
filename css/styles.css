@@ -8,3 +8,6 @@
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
+body {
+  font-family: "roboto";
+}
