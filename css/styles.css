@@ -1,5 +1,5 @@
 body {
-  font-family: "roboto";
+  font-family: "Roboto", sans-serif;
 }
 .logo-first-part {
   color: var(--iris, #4d5ae5);
