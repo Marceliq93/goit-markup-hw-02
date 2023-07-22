@@ -1,13 +1,69 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #2e2f42;
 }
 .logo-first-part {
   color: var(--iris, #4d5ae5);
   font-family: Raleway;
   font-size: 18px;
-  font-style: normal;
   font-weight: 800;
-  line-height: 21px; /* 116.667% */
+  line-height: 1.17
   letter-spacing: 0.54px;
   text-transform: uppercase;
+  text-decoration: none;
+  text-decoration: none;
+}
+.logo-second-part-header {
+  color: var(--navyblue, #2e2f42);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.logo-second-part-footer {
+  color: var(--cloud, #f4f4fd);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.filter-button:hover {
+  background: var(--ocean, #404bbf);
+}
+.filter-button:focus {
+  background: var(--ocean, #404bbf);
+}
+.portfolio-project-name {
+  color: var(--navyblue, #2e2f42);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.4px;
+}
+.address:hover {
+  color: #d41dbc;
+}
+.address:focus {
+  color: #d41dbc;
+}
+.address {
+  color: var(--slate, #434455);
+  font-size: 16px;
+  line-height: 1.5;
+  font-style: normal;
+  letter-spacing: 0.32px;
+  text-decoration: none;
+}
+.menu {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  text-decoration: none;
 }
